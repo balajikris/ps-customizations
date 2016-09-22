@@ -50,7 +50,7 @@ function prompt {
 
     Write-Host ""
 
-    return "> "
+    return "$ "
 }
 
 #colorize directory listing
